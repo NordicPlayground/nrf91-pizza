@@ -1,5 +1,9 @@
 Introduction
 
+Link to video
+
+Screenshots
+
 How to use
 - Firmware
 - Setup
