@@ -1,5 +1,7 @@
 Introduction
 
+[nRF Cloud Device REST API documentation](https://nrfcloud.com/#/docs/api)
+
 Link to video
 
 Screenshots
