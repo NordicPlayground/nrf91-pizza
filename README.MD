@@ -8,9 +8,11 @@ Screenshots
 
 How to use
 - Firmware
+- nRF Cloud account
 - Setup
 - API Key
 - Device name
+- Hold button on Thingy:91 until LED flashes purple (?)
 
 Limitations
 
