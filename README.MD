@@ -3,7 +3,7 @@
 </p>
 
 ## Introduction
-This repository contains source code for the nRF91 Pizza web application which is shown in the following video. The main purpose of the application is to demonstrate how to pull data from nRF Cloud with the Device REST API.
+This repository contains source code for the nRF91 Pizza web application which is [shown in the following video](https://youtu.be/y7-eSOqcHYU). The main purpose of the application is to demonstrate how to pull data from nRF Cloud with the Device REST API.
 
 As a developer, this means you have a quick way of displaying near-live data from your Thingy:91 in a custom interface. There is no need to write firmware or cloud code for your cellular IoT prototype.
 
@@ -41,7 +41,7 @@ If you can see data from your Thingy:91 being published in nRF Cloud you are rea
 6. Select the Order tab
 7. Select any Pizza
 
-![Animation of nRF Pizza setup](https://github.com/NordicPlayground/nrf91-pizza/blob/master/images/nrfpizza_animation.gif)
+![Animation of nRF Pizza setup](https://github.com/NordicPlayground/nrf91-pizza/blob/master/images/nrfpizza_animation_2.gif)
 
 ## Limitations
 The app has only been tested on Chrome browsers in Windows and Android devices.
