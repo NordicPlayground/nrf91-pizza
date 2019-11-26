@@ -22,7 +22,9 @@ As a developer, this means you have a quick way of displaying near-live data fro
 The relevant code for connecting to the REST API is available in `cloud-api.js`. The code for parsing data is available in `app.js`.
 
 ## Requirements
-Nordic Thingy:91 Cellular IoT prototyping kit. [Buy here](https://www.nordicsemi.com/About-us/BuyOnline?search_token=nRF6943&series_token=nRF9160)
+![Image of Thingy:91](https://github.com/NordicPlayground/nrf91-pizza/blob/master/images/thingy91.png)
+
+Nordic **Thingy:91** Cellular IoT prototyping kit. [Buy here](https://www.nordicsemi.com/About-us/BuyOnline?search_token=nRF6943&series_token=nRF9160)
 
 ## How to use
 In order to use this web application you must first set up your Thingy:91 and connect it to nRF Cloud. Refer to the [Thingy:91 Get Started Guide](https://www.nordicsemi.com/Software-and-tools/Prototyping-platforms/Nordic-Thingy-91/GetStarted).
