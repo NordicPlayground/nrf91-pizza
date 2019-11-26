@@ -41,10 +41,10 @@ If you can see data from your Thingy:91 being published in nRF Cloud you are rea
 ## Limitations
 The app has only been tested on Chrome browsers in Windows and Android devices.
 
-## Dependencies
-* Leaflet
-* jQuery
-* Bootstrap
+## Third-party licenses
+* **Leaflet** - [BSD 2-Clause "Simplified" License](https://github.com/Leaflet/Leaflet/blob/master/LICENSE)
+* **jQuery** - [MIT License](https://jquery.org/license/)
+* **Bootstrap** - [MIT License](https://getbootstrap.com/docs/4.0/about/license/)
 
 ## A note on support
 This application is one of several applications that has been built by the team at Nordic Semiconductor, as a demo of some particular feature or use case. It has not necessarily been thoroughly tested, so there might be unknown issues. It is hence provided as-is, without any warranty. However, in the hope that it still may be useful also for others than the ones we initially wrote it for, we've chosen to distribute it here on GitHub.
