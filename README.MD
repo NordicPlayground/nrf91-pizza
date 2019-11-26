@@ -1,4 +1,6 @@
-![nRF Pizza Logo](https://github.com/NordicPlayground/nrf91-pizza/blob/master/images/nrf_pizza_logo_small.png)
+<p align="center">
+  <img src="https://github.com/NordicPlayground/nrf91-pizza/blob/master/images/nrf_pizza_logo_small.png">
+</p>
 
 ## Introduction
 This repository contains source code for the nRF91 Pizza web application which is demonstrated in the following video. The main purpose of the web application is to demonstrate how to pull data from the nRF Cloud Device REST API.
